@@ -13,6 +13,8 @@
 		1928BA731A97FCFB009C1D04 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1928BA721A97FCFB009C1D04 /* Images.xcassets */; };
 		1928BA761A97FCFB009C1D04 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1928BA741A97FCFB009C1D04 /* LaunchScreen.xib */; };
 		1928BA821A97FCFB009C1D04 /* postcardswiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1928BA811A97FCFB009C1D04 /* postcardswiftTests.swift */; };
+		1928BA8C1A9803A6009C1D04 /* PirateAttack.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1928BA8B1A9803A6009C1D04 /* PirateAttack.jpg */; };
+		1928BA8E1A992C3C009C1D04 /* person4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1928BA8D1A992C3C009C1D04 /* person4.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		1928BA7B1A97FCFB009C1D04 /* postcardswiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = postcardswiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1928BA801A97FCFB009C1D04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1928BA811A97FCFB009C1D04 /* postcardswiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postcardswiftTests.swift; sourceTree = "<group>"; };
+		1928BA8B1A9803A6009C1D04 /* PirateAttack.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PirateAttack.jpg; sourceTree = "<group>"; };
+		1928BA8D1A992C3C009C1D04 /* person4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = person4.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		1928BA691A97FCFB009C1D04 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1928BA8D1A992C3C009C1D04 /* person4.jpeg */,
+				1928BA8B1A9803A6009C1D04 /* PirateAttack.jpg */,
 				1928BA6A1A97FCFB009C1D04 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,9 +198,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1928BA8C1A9803A6009C1D04 /* PirateAttack.jpg in Resources */,
 				1928BA711A97FCFB009C1D04 /* Main.storyboard in Resources */,
 				1928BA761A97FCFB009C1D04 /* LaunchScreen.xib in Resources */,
 				1928BA731A97FCFB009C1D04 /* Images.xcassets in Resources */,
+				1928BA8E1A992C3C009C1D04 /* person4.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
