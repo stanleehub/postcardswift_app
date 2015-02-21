@@ -54,6 +54,7 @@ class ViewController: UIViewController {
         //change button title.
         mailButton.setTitle("Mail Sent", forState: UIControlState.Normal)
 
+        //adding a comment to test commit
     
     }
 }
